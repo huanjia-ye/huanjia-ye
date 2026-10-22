@@ -11,7 +11,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**SZU · Junior**
 
-- 👩‍💻 Frontend learner · 🎯Goal: Full Stack + Agent
+- 👩‍💻 Frontend learner · 🎯Goal: Full Stack
 - 🧠 Currently learning: React internals · Web design · Frontend engineering
 - 🧩 Hobbies: Future cat butler / Nature lover / Dreaming of my own little nest🏠
 - 🎀 Love dressing up · Reality: homeless-chic comfort zone
